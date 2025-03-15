@@ -1,0 +1,6 @@
+1. untuk file icon search,shopping cart,hamburger belum bisa muncul
+2. di css yang saya non aktifkan masih bermasalah di karenakan teks pada hamburger menu belum ke bawah masih menyamping
+3. hamburger menu sempat muncul tetapi menghilang sekarang
+4. jika ingin memakai kode ini harap berhati" karena sensitif kodenya
+
+#salam ndas mumet
